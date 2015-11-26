@@ -1,0 +1,4 @@
+16:09:05,990  INFO devpinoyLogger<strong>{1}</strong>:24 - Clicking on Login Link
+16:09:07,673  INFO devpinoyLogger<strong>{1}</strong>:33 - Entering Logging Details
+16:09:08,192  INFO devpinoyLogger<strong>{1}</strong>:37 - Creating Reference to Home Page
+16:09:08,219  INFO devpinoyLogger<strong>{1}</strong>:42 - Checking Logged correctly or not
