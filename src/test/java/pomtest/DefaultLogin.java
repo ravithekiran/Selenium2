@@ -40,7 +40,7 @@ public class DefaultLogin extends AnnotationSetup{
 		//log.error("Checking Logged correctly or not");
 		  log.debug("Entering Logging Details");
 		//log.info("Checking Logged correctly or not");
-		Assert.assertTrue(HomePageElements.dashboardname().contains("Welcome to BSNL Payment Portal"));
+		Assert.assertTrue(HomePageElements.dashboardname().contains("Welcome to BSNL Payment Porta1l"));
 	}
 
 }
