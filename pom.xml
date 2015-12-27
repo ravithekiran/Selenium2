@@ -3,19 +3,7 @@
   <groupId>Proj2</groupId>
   <artifactId>Proj2.2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
-
-
-  <!-- Nrk-->
-
-
-
-
-
-
-
-  <!-- develop111111111COMMENT-->
-
+  <!-- origin pom.xml-->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
