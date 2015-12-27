@@ -3,7 +3,11 @@
   <groupId>Proj2</groupId>
   <artifactId>Proj2.2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
   <!-- Nrk-->
+
+  <!-- RELEASE11-->
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
