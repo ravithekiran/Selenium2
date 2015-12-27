@@ -4,11 +4,8 @@
   <test name="Test">
     <classes>
       <class name="pomtest.DefaultLogin"/>
-<<<<<<< HEAD
       <!-- DEVELOP naresh -->
-=======
       <!-- DEVELOP RAVI-->
->>>>>>> a17f08f2d3c33c874b98be3e84ce9a548a9a3d31
 <!-- <class name="com.excel.ExcelTest"/> -->
     </classes>
   </test> 
