@@ -1,0 +1,9 @@
+diff a/testng.xml b/testng.xml	(rejected hunks)
+@@ -4,7 +4,6 @@
+   <test name="Test">
+     <classes>
+       <class name="pomtest.DefaultLogin"/>
+-<!-- test123 -->
+ <!-- <class name="com.excel.ExcelTest"/> -->
+     </classes>
+   </test> 
