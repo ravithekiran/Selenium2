@@ -4,7 +4,7 @@
   <test name="Test">
     <classes>
       <class name="pomtest.DefaultLogin"/>
-<!-- test -->
+<!-- test123 -->
 <!-- <class name="com.excel.ExcelTest"/> -->
     </classes>
   </test> 
