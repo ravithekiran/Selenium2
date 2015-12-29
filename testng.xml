@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-    <!-- Test master123-->
+    
       <class name="pomtest.DefaultLogin"/>
 <!-- <class name="com.excel.ExcelTest"/> -->
     </classes>
