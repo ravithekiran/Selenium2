@@ -11,6 +11,9 @@ public class DefaultLogin extends AnnotationSetup{
 
 	LoginElements objLoginElements;
 	HomePage HomePageElements;
+	/**
+	 * Java Doc 
+	 */
 	//ClassLoader loader = Test.class.getClassLoader();
 	 //System.out.println(loader.getResource("pomtest.DefaultLogin.class"));
 	Logger log = Logger.getLogger("devpinoyLogger");//devpinoyLogger
