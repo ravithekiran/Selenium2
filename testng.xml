@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-    <!-- Test SECOND merge123-->
+    <!-- Test master-->
       <class name="pomtest.DefaultLogin"/>
 <!-- <class name="com.excel.ExcelTest"/> -->
     </classes>
