@@ -12,14 +12,27 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.apache.commons.io.FileUtils;
 
-@Test
+/**
+ * 
+ * This class is used to capture Screen when test case fails
+ * @author Sandri
+ *
+ */
 public class ScreenCapture {
+	public static int a=10;
+	/**
+	 *<H3> 
+	 *Captures Screenshot when test-case fails,<p>
+	 *when actual and expected mismatch. Stores screenshot in folder "G".</p></H3>
+
+	 */
 	public void screen1() throws Exception
 	{
 		WebDriver driver=new FirefoxDriver();
 		driver.get("http://www.google.com");
 		String exptitle=driver.getTitle();
 		String acttitle="Google123";
+		
 		try
 		{
 			Assert.assertEquals(acttitle, exptitle);
